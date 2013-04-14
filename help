@@ -1,0 +1,5 @@
+1- load and sprite sheet image by clicking on "open sheet"
+2- set number of the slices with sliceX and sliceY and set split button
+3(1)- use autofill text and write frame numbers seperated with " "(space) like (1 2 3 4 5 3 2 1) then click on autofill
+3(2)- OR click on each slice rectangle you want to add to the list.
+4- click on generate button to generate a XML file on hard disk beside the image you load.
